@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+openai
+huggingface_hub
+langchain_google_genai
+chromadb
+tiktoken
+pypdf
+pinecone-client==2.2.4
+sentence-transformers==2.2.2
+faiss-cpu
+weaviate-client
